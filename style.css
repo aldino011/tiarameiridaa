@@ -1,0 +1,77 @@
+body{
+     background-image:url("back.jpg");
+}
+
+
+h1{
+    font-size:38px;
+    padding:20px;
+    margin:17px;
+    color:purple;
+    text-align:center;
+}
+
+.gambar-1{
+    width:99%;
+    border: 2px solid black;
+  border-radius: 10px;
+}
+
+p{
+    font-family:Roboto, "Helvetica";
+    font-size:17px;
+}
+
+.kata-1{
+    text-align:center;
+    color:#ff4dc4;
+    font-style:italic;
+    font-size:33px;
+    padding:70px;
+}
+
+.gambar-2{
+    width:99%;
+    padding:2px;
+    margin-bottom:100px;
+    border: 2px solid black;
+  border-radius: 25px;
+}
+
+.kata-2{
+    font-size:35px;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-family: "Poetsen One", sans-serif;
+
+}
+.kata-3{
+    font-size:35px;
+    text-align:center;
+    margin:0;
+    padding:4px;
+    font-family: "Poetsen One", sans-serif;
+}
+
+.kata-4{
+    text-align:center;
+    color:#4b0082;
+    font-style:italic;
+    font-size:33px;
+    padding:70px;
+}
+
+.button a {
+font-size:0.5rem;
+}
+
+.button a {
+    text-decoration: none;
+    font-size: 1.9rem;
+    color: #111;
+    
+  }
+  .button{
+    text-align:center;
+  }
